@@ -1,4 +1,4 @@
-# Bracep
+# BraCep
 BraCep is a simple React Native application created to practice some development concepts such as the listed below:
 
 - React app with Expo

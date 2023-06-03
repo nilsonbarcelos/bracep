@@ -2,6 +2,20 @@
 
 BraCep is a simple React Native application created to practice some development concepts such as the listed below:
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **BraCep**
+| :label: Tecnologias | React Native
+| :rocket: URL         | 
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](.images/vitrine_dev.png#vitrinedev)
+
+## Detalhes do projeto
+
+BraCep is a simple React Native application created to practice some development concepts such as the listed below:
+
 - React app with Expo
 - Native Base framework for page layout
 - React Navigation with Stack

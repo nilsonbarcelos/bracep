@@ -12,7 +12,7 @@ BraCep is a simple React Native application created to practice some development
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](.images/vitrine_dev.png#vitrinedev)
 
-## Detalhes do projeto
+## Project Details
 
 BraCep is a simple React Native application created to practice some development concepts such as the listed below:
 
@@ -33,21 +33,3 @@ BraCep is a simple React Native application created to practice some development
 </h1>
 
 
-### Run instruction
-
-```bash
-# Clone this repository
-$ git clone https://github.com/nilsonbarcelos/bracep.git
-
-# Go to repository
-$ cd Bracep
-
-# Install the dependencies
-$ npm install
-```
-
-### Run the project
-
-```bash
-$ expo start
-```

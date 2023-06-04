@@ -31,4 +31,21 @@ BraCep is a simple React Native application created to practice some development
     <img alt="Validation" title="Validation" src=".images/bracep_validation.jpg" width="100px" />
 </h1>
 
+### Run instruction
+
+```bash
+# Clone this repository
+$ git clone https://github.com/nilsonbarcelos/bracep.git
+
+# Go to repository
+$ cd Bracep
+
+# Install the dependencies
+$ npm install
+```
+
+### Run the project
+```bash
+$ expo start
+```
 

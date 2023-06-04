@@ -6,8 +6,7 @@ BraCep is a simple React Native application which allow the user to validate a b
 | -------------  | --- |
 | :sparkles: Nome        | **BraCep**
 | :label: Tecnologias | React Native
-| :rocket: URL         | 
-| :fire: Desafio     | 
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](.images/vitrine_dev.png#vitrinedev)

@@ -1,6 +1,6 @@
 # BraCep
 
-BraCep is a simple React Native application created to practice some development concepts such as the listed below:
+BraCep is a simple React Native application which allow the user to validate a brazilian zipcode.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
